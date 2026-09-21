@@ -2,6 +2,7 @@
 
 A lightweight serverless backend built with Node.js and MySQL. This API enables users to track expenses and extra income, monitor their budget usage, and set and track goal-oriented savings.
 
+Check TESTING.md for more info
 ---
 
 ## 🗄️ Database Schema (`schema.sql`)
